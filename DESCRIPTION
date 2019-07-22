@@ -1,0 +1,11 @@
+Package: StatisticalTest
+Type: Package
+Title: Performs two sample t-test and chi-square test and exports the output of each test in a text file.
+Version: 0.1.0
+Author: Arpit Prakash
+Maintainer: Arpit Prakash <arpitprakash29@gmail.com>
+Description: Performs two sample t-test and chi-square test and exports the output of each test in a text file.
+License: GPL=2
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1
